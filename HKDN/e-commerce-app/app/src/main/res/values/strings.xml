@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ebn</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_share">icon share</string>
+    <string name="icon_heart">icon heart</string>
+    <string name="icon_coin">icon coin</string>
+    <string name="icon_add_to_cart">icon add-to-cart</string>
+    <string name="icon_notification">icon notification</string>
+
+    <string name="dang_xuat">Đăng Xuất</string>
+    <string name="v_voucher">Ví voucher</string>
+    <string name="payment">Payment</string>
+    <string name="cart_history">Lịch sử đơn hàng</string>
+    <string name="management_app">Ứng dụng cho chủ quán</string>
+    <string name="invite_fr">Mời bạn bè</string>
+    <string name="feedback">Góp ý</string>
+
+
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+</resources>

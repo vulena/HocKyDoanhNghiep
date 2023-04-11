@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\fragment_homepage.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\fragment_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\fragment_account.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\fragment_room.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\fragment_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\fragment_qr_scan.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\fragment_qr_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\item_product.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\item_product.xml"
+    },
+    {
+        "merged": "com.example.ebn.app-mergeDebugResources-38:/layout/fragment_search.xml",
+        "source": "com.example.ebn.app-main-41:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\fragment_posts.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\fragment_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-mergeDebugResources-38:\\layout\\fragment_reels.xml",
+        "source": "C:\\Users\\Asus-FPT\\.gradle\\daemon\\7.5\\com.example.ebn.app-main-41:\\layout\\fragment_reels.xml"
+    },
+    {
+        "merged": "com.example.ebn.app-mergeDebugResources-38:/layout/fragment_account.xml",
+        "source": "com.example.ebn.app-main-41:/layout/fragment_account.xml"
+    }
+]

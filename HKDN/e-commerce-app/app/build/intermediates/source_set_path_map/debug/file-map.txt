@@ -1,0 +1,42 @@
+com.example.ebn.app-ssp-android-1.0.6-0 C:\Users\Asus-FPT\.gradle\caches\transforms-3\11c540a1064e3c914bd951c882baf051\transformed\ssp-android-1.0.6\res
+com.example.ebn.app-lifecycle-viewmodel-2.5.1-1 C:\Users\Asus-FPT\.gradle\caches\transforms-3\3735bb6ae1428666e182b7a966862ab1\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.ebn.app-annotation-experimental-1.3.0-2 C:\Users\Asus-FPT\.gradle\caches\transforms-3\3e9bace1f3f005fb1850e5586c683334\transformed\annotation-experimental-1.3.0\res
+com.example.ebn.app-coordinatorlayout-1.1.0-3 C:\Users\Asus-FPT\.gradle\caches\transforms-3\47b777ebfa4de5c22746938463d19f0e\transformed\coordinatorlayout-1.1.0\res
+com.example.ebn.app-material-1.7.0-4 C:\Users\Asus-FPT\.gradle\caches\transforms-3\58c62f02ecd173fe2233faa25b3f9386\transformed\material-1.7.0\res
+com.example.ebn.app-sdp-android-1.0.6-5 C:\Users\Asus-FPT\.gradle\caches\transforms-3\5a3cfe83f306d9767514c2ec6fd9b547\transformed\sdp-android-1.0.6\res
+com.example.ebn.app-emoji2-views-helper-1.2.0-6 C:\Users\Asus-FPT\.gradle\caches\transforms-3\6103c389166b46041c403808a0ad6f0d\transformed\emoji2-views-helper-1.2.0\res
+com.example.ebn.app-play-services-basement-18.1.0-7 C:\Users\Asus-FPT\.gradle\caches\transforms-3\64f2853bc0c2a07eaab23c7fb847ad95\transformed\play-services-basement-18.1.0\res
+com.example.ebn.app-lifecycle-process-2.4.1-8 C:\Users\Asus-FPT\.gradle\caches\transforms-3\75c6f2316bd28b4b9916ed49903e9f98\transformed\lifecycle-process-2.4.1\res
+com.example.ebn.app-activity-1.6.0-9 C:\Users\Asus-FPT\.gradle\caches\transforms-3\788495a5590876b9fdb55c03362eb2d3\transformed\activity-1.6.0\res
+com.example.ebn.app-recyclerview-1.1.0-10 C:\Users\Asus-FPT\.gradle\caches\transforms-3\78a0975e586276fef4a50475e8390b79\transformed\recyclerview-1.1.0\res
+com.example.ebn.app-appcompat-1.6.1-11 C:\Users\Asus-FPT\.gradle\caches\transforms-3\8c8282979b584c3217ecc59117bed5c7\transformed\appcompat-1.6.1\res
+com.example.ebn.app-lifecycle-viewmodel-savedstate-2.5.1-12 C:\Users\Asus-FPT\.gradle\caches\transforms-3\8efc5ce7fc512219eb649449d39c7bdd\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.ebn.app-recyclerview-selection-1.1.0-13 C:\Users\Asus-FPT\.gradle\caches\transforms-3\93c1c7916bcb63763aa037ee56a1a8a2\transformed\recyclerview-selection-1.1.0\res
+com.example.ebn.app-constraintlayout-2.1.4-14 C:\Users\Asus-FPT\.gradle\caches\transforms-3\9c64b8fd06e36ba576320345bddc89b0\transformed\constraintlayout-2.1.4\res
+com.example.ebn.app-browser-1.4.0-15 C:\Users\Asus-FPT\.gradle\caches\transforms-3\a7b094d38c955584bdc1515f8dbe7117\transformed\browser-1.4.0\res
+com.example.ebn.app-play-services-base-18.0.1-16 C:\Users\Asus-FPT\.gradle\caches\transforms-3\b448770b578b650fde652fe79342a01a\transformed\play-services-base-18.0.1\res
+com.example.ebn.app-startup-runtime-1.1.1-17 C:\Users\Asus-FPT\.gradle\caches\transforms-3\b7a62db0acff99aa76a356c101d33ae4\transformed\startup-runtime-1.1.1\res
+com.example.ebn.app-lifecycle-runtime-2.5.1-18 C:\Users\Asus-FPT\.gradle\caches\transforms-3\bb02bcfba3cbbca509d6c41f06068172\transformed\lifecycle-runtime-2.5.1\res
+com.example.ebn.app-transition-1.2.0-19 C:\Users\Asus-FPT\.gradle\caches\transforms-3\bc8dd87c92771002dfd43641002efa07\transformed\transition-1.2.0\res
+com.example.ebn.app-savedstate-1.2.0-20 C:\Users\Asus-FPT\.gradle\caches\transforms-3\bcd7b8774c5dfd17ea5eacc5e8d380f6\transformed\savedstate-1.2.0\res
+com.example.ebn.app-firebase-common-20.2.0-21 C:\Users\Asus-FPT\.gradle\caches\transforms-3\bd102478999843b186204d90037e45f4\transformed\firebase-common-20.2.0\res
+com.example.ebn.app-cardview-1.0.0-22 C:\Users\Asus-FPT\.gradle\caches\transforms-3\c111729e95cba3618e72dcdd829b7102\transformed\cardview-1.0.0\res
+com.example.ebn.app-emoji2-1.2.0-23 C:\Users\Asus-FPT\.gradle\caches\transforms-3\cbfc5b4c373d8d9d1a50bb3e21c5966f\transformed\emoji2-1.2.0\res
+com.example.ebn.app-appcompat-resources-1.6.1-24 C:\Users\Asus-FPT\.gradle\caches\transforms-3\d6c813f15d11f0c28bbca12a1c809316\transformed\appcompat-resources-1.6.1\res
+com.example.ebn.app-core-1.9.0-25 C:\Users\Asus-FPT\.gradle\caches\transforms-3\dc3bf7f732059b8964124f246c052a1d\transformed\core-1.9.0\res
+com.example.ebn.app-viewpager2-1.0.0-26 C:\Users\Asus-FPT\.gradle\caches\transforms-3\dec60b45e8040d78ccfb0c6ce5d0b8c3\transformed\viewpager2-1.0.0\res
+com.example.ebn.app-drawerlayout-1.1.1-27 C:\Users\Asus-FPT\.gradle\caches\transforms-3\e1fc3b6bbfe4836618d4d3f6c1cf5ea5\transformed\drawerlayout-1.1.1\res
+com.example.ebn.app-roundedimageview-2.3.0-28 C:\Users\Asus-FPT\.gradle\caches\transforms-3\ead6088a07f128c0e13fe2b06e0ba305\transformed\roundedimageview-2.3.0\res
+com.example.ebn.app-gridlayout-1.0.0-29 C:\Users\Asus-FPT\.gradle\caches\transforms-3\ef903b3e049b9f4d6d865a3ff2ff1954\transformed\gridlayout-1.0.0\res
+com.example.ebn.app-lifecycle-livedata-core-2.5.1-30 C:\Users\Asus-FPT\.gradle\caches\transforms-3\f176915c900da77d000e44f3c41f2854\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.ebn.app-core-ktx-1.9.0-31 C:\Users\Asus-FPT\.gradle\caches\transforms-3\f56a25efa3434db42221a447d35bb707\transformed\core-ktx-1.9.0\res
+com.example.ebn.app-fragment-1.3.6-32 C:\Users\Asus-FPT\.gradle\caches\transforms-3\fc71e686a527aa06bb92650ecaa2750a\transformed\fragment-1.3.6\res
+com.example.ebn.app-google-services-33 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\build\generated\res\google-services\debug
+com.example.ebn.app-pngs-34 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\build\generated\res\pngs\debug
+com.example.ebn.app-resValues-35 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\build\generated\res\resValues\debug
+com.example.ebn.app-rs-36 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\build\generated\res\rs\debug
+com.example.ebn.app-packageDebugResources-37 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ebn.app-packageDebugResources-38 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ebn.app-merged_res-39 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\build\intermediates\merged_res\debug
+com.example.ebn.app-debug-40 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\src\debug\res
+com.example.ebn.app-main-41 D:\LE NA\LeNa_CNTT\HK222\HKDN\e-commerce-app\app\src\main\res

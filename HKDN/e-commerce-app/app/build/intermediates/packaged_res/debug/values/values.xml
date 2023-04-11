@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="contentTextColor">#020000</color>
+    <color name="darkTextColor">#020000</color>
+    <color name="purple_200">#E76136</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#F9B59F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteTextColor">#FFFFFF</color>
+    <dimen name="headerTextSize">25sp</dimen>
+    <dimen name="loginViewsMargin">30dp</dimen>
+    <dimen name="newsMoreTextSize">12sp</dimen>
+    <string name="app_name">ebn</string>
+    <string name="cart_history">Lịch sử đơn hàng</string>
+    <string name="dang_xuat">Đăng Xuất</string>
+    <string name="default_web_client_id" translatable="false">1036208609092-ajqlp6hgrnls0s9jgf9vnf4n0gsg77vh.apps.googleusercontent.com</string>
+    <string name="feedback">Góp ý</string>
+    <string name="gcm_defaultSenderId" translatable="false">1036208609092</string>
+    <string name="google_api_key" translatable="false">AIzaSyCsCzIjiui2sYVwaajxRoWd8rGjYjzuym8</string>
+    <string name="google_app_id" translatable="false">1:1036208609092:android:479d50b43744a2de18a911</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCsCzIjiui2sYVwaajxRoWd8rGjYjzuym8</string>
+    <string name="google_storage_bucket" translatable="false">ebn-db.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_add_to_cart">icon add-to-cart</string>
+    <string name="icon_coin">icon coin</string>
+    <string name="icon_heart">icon heart</string>
+    <string name="icon_notification">icon notification</string>
+    <string name="icon_share">icon share</string>
+    <string name="invite_fr">Mời bạn bè</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="management_app">Ứng dụng cho chủ quán</string>
+    <string name="payment">Payment</string>
+    <string name="project_id" translatable="false">ebn-db</string>
+    <string name="v_voucher">Ví voucher</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/purple_200</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Ebn" parent="Theme.MaterialComponents.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="food_item_btn" parent="viewParent">
+        <item name="android:textColor">@color/whiteTextColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="loginButton" parent="viewParent">
+        <item name="android:background">@drawable/button_background_or</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="modifiedEditText" parent="parent">
+        <item name="android:textSize">@dimen/newsMoreTextSize</item>
+        <item name="android:backgroundTint">@color/white</item>
+    </style>
+    <style name="parent">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="spinnerHintText" parent="parent">
+        <item name="android:textSize">@dimen/newsMoreTextSize</item>
+        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:paddingLeft">5dp</item>
+    </style>
+    <style name="textBold">
+
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="viewParent">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="viewParent.headerText">
+        <item name="android:textColor">@color/contentTextColor</item>
+        <item name="android:textSize">@dimen/headerTextSize</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="viewParent.headerText.NoMode">
+        <item name="android:textColor">@color/darkTextColor</item>
+    </style>
+</resources>
